@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "jar",
   "homepage": "https://testproject2.com",
+  "icon": "https://testproject.com/icon.png",
   "license": "MIT",
   "authors": [
     {

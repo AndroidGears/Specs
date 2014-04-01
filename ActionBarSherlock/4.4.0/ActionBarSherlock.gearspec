@@ -1,0 +1,22 @@
+{
+  "name": "ActionBarSherlock",
+  "summary": "Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme",
+  "version": "4.4.0",
+  "type": "module",
+  "homepage": "http://actionbarsherlock.com",
+  "icon": "http://actionbarsherlock.com/static/mascot.png",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Jake Wharton",
+      "email": "jakewharton@gmail.com"
+    }
+  ],
+  "minimum_api": 7,
+  "source": {
+    "url": "https://github.com/JakeWharton/ActionBarSherlock.git",
+    "tag": "4.4.0",
+    "sourece_files": "actionbarsherlock"
+  },
+  "dependencies": null
+}

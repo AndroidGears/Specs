@@ -1,7 +1,7 @@
 {
   "name": "TestProject2",
   "summary": "Test Project 2 is a test project for the specs repo. It makes testing easier by filling space.",
-  "verison": "0.0.1",
+  "version": "0.0.1",
   "type": "jar",
   "homepage": "https://testproject2.com",
   "license": "MIT",

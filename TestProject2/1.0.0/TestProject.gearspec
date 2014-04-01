@@ -1,0 +1,21 @@
+{
+  "name": "TestProject2",
+  "summary": "Test Project 2 is a test project for the specs repo. It makes testing easier by filling space.",
+  "verison": "0.0.1",
+  "type": "jar",
+  "homepage": "https://testproject2.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matthew York",
+      "email": "myork@cs.ua.edu"
+    }
+  ],
+  "minimum_api": 14,
+  "source": {
+    "url": "https://github.com/androidgears/testproject2.git",
+    "tag": "v0.0.1",
+    "sourece_files": "lib/testLib"
+  },
+  "dependencies": null
+}

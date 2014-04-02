@@ -18,10 +18,6 @@
     {
       "name": "Matthew Hudnall",
       "email": "mhudnall@cs.ua.edu"
-    },
-    {
-      "name": "Rebecca Royen",
-      "email": "rroyen@cs.ua.edu"
     }
   ],
   "minimum_api": 14,

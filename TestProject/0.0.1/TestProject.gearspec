@@ -3,7 +3,7 @@
   "summary": "Test Project is a test project for the specs repo. It makes testing easier by filling space.",
   "version": "0.0.1",
   "type": "jar",
-  "homepage": "https://testproject.com",
+  "homepage": "https://github.com/AndroidGears/TestProject",
   "icon": "https://testproject.com/icon.png",
   "license": "MIT",
   "authors": [
@@ -14,7 +14,7 @@
   ],
   "minimum_api": 14,
   "source": {
-    "url": "https://github.com/androidgears/testproject.git",
+    "url": "https://github.com/AndroidGears/TestProject.git",
     "tag": "v0.0.1",
     "sourece_files": "lib/testLib"
   },

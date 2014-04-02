@@ -3,7 +3,7 @@
   "summary": "Test Project 2 is a test project for the specs repo. It makes testing easier by filling space.",
   "version": "1.0.0",
   "type": "jar",
-  "homepage": "https://testproject2.com",
+  "homepage": "https://github.com/MatthewYork/DateTools",
   "icon": "https://testproject.com/icon.png",
   "license": "MIT",
   "authors": [

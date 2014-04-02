@@ -14,6 +14,10 @@
     {
       "name": "Aaron Fleshner",
       "email": "adfleshner@cs.ua.edu"
+    },
+    {
+      "name": "Matthew Hudnall",
+      "email": "mhudnall@cs.ua.edu"
     }
   ],
   "minimum_api": 14,

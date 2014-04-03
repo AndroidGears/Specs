@@ -5,13 +5,21 @@
   "version": "1.0.0",
   "type": "jar",
   "copyright": "Matthew York 2014",
-  "homepage": "https://testproject2.com",
+  "homepage": "https://github.com/MatthewYork/DateTools",
   "icon": "https://testproject.com/icon.png",
   "license": "MIT",
   "authors": [
     {
       "name": "Matthew York",
       "email": "myork@cs.ua.edu"
+    },
+    {
+      "name": "Aaron Fleshner",
+      "email": "adfleshner@cs.ua.edu"
+    },
+    {
+      "name": "Matthew Hudnall",
+      "email": "mhudnall@cs.ua.edu"
     }
   ],
   "minimum_api": 14,

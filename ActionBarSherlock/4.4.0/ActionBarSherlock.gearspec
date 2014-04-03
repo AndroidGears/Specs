@@ -1,8 +1,10 @@
 {
   "name": "ActionBarSherlock",
   "summary": "Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme",
+  "release_notes": "Add Gradle support.\n-Fix: Use 'sw' and 'w' qualifiers on ICS+ only to prevent OEM resource bugs.\n-Fix: Improve handling of popup windows to prevent leaks.\n-Fix: Support turning off textAllCaps style attribute on action items.\n-Fix: Potential logging NullPointerException when a MenuItem title was omitted.",
   "version": "4.4.0",
   "type": "module",
+  "copyright": "Jake Wharton 2014",
   "homepage": "http://actionbarsherlock.com",
   "icon": "http://actionbarsherlock.com/static/mascot.png",
   "license": "Apache",
@@ -18,5 +20,13 @@
     "tag": "4.4.0",
     "sourece_files": "actionbarsherlock"
   },
-  "dependencies": null
+  "dependencies": null,
+  "tags": [
+    "action",
+    "bar",
+    "sherlock",
+    "utility",
+    "top",
+    "compatibility"
+  ]
 }

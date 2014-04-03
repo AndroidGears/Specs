@@ -1,8 +1,10 @@
 {
   "name": "TestProject2",
   "summary": "Test Project 2 is a test project for the specs repo. It makes testing easier by filling space.",
+  "release_notes": "Nothing changed in this release",
   "version": "1.0.0",
   "type": "jar",
+  "copyright": "Matthew York 2014",
   "homepage": "https://testproject2.com",
   "icon": "https://testproject.com/icon.png",
   "license": "MIT",
@@ -18,5 +20,10 @@
     "tag": "v1.0.0",
     "sourece_files": "lib/testLib"
   },
-  "dependencies": null
+  "dependencies": null,
+  "tags": [
+    "test",
+    "project",
+    "gears"
+  ]
 }

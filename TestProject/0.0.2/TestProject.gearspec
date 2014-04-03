@@ -1,8 +1,10 @@
 {
   "name": "TestProject",
   "summary": "Test Project is a test project for the specs repo. It makes testing easier by filling space.",
+  "release_notes": "Nothing changed in this release",
   "version": "0.0.2",
   "type": "jar",
+  "copyright": "Matthew York 2014",
   "homepage": "https://github.com/AndroidGears/TestProject",
   "icon": "https://testproject.com/icon.png",
   "license": "MIT",
@@ -23,5 +25,10 @@
       "name": "Test Project 2",
       "version": "1.0.0"
     }
+  ],
+  "tags": [
+    "test",
+    "project",
+    "gears"
   ]
 }

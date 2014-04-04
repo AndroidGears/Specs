@@ -1,0 +1,30 @@
+{
+  "name": "Colours",
+  "summary": "A beautiful set of predefined colors and a set of color methods to make your Android development life easier.",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "Matthew York 2014",
+  "homepage": "https://github.com/MatthewYork/Colours",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matthew York",
+      "email": "myork@cs.ua.edu"
+    }
+  ],
+  "minimum_api": 9,
+  "source": {
+    "url": "https://github.com/MatthewYork/Colours.git",
+    "tag": "v1.1.0",
+    "sourece_files": "ColoursLibrary"
+  },
+  "dependencies": null,
+  "tags": [
+    "color",
+    "colour",
+    "utility",
+    "hsb",
+    "rgb",
+    "scheme"
+  ]
+}

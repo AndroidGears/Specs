@@ -6,7 +6,6 @@
   "type": "module",
   "copyright": "Jake Wharton 2014",
   "homepage": "https://github.com/JakeWharton/ActionBarSherlock",
-  "icon": "http://actionbarsherlock.com/static/mascot.png",
   "license": "Apache",
   "authors": [
     {

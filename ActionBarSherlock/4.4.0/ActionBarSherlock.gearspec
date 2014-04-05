@@ -17,7 +17,7 @@
   "source": {
     "url": "https://github.com/JakeWharton/ActionBarSherlock.git",
     "tag": "4.4.0",
-    "sourece_files": "actionbarsherlock"
+    "source_files": "actionbarsherlock"
   },
   "dependencies": null,
   "tags": [

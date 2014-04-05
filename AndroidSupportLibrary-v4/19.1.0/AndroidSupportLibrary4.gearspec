@@ -1,0 +1,29 @@
+{
+  "name": "AndroidSupportLibrary-v4",
+  "summary": "The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework APIs as well as features that are only available through the library APIs. Each Support Library is backward-compatible to a specific Android API level.",
+  "release_notes": "Changes for v4 support library:<br/>Added the SwipeRefreshLayout class, which enables users to refresh the contents of a view with a vertical swipe gesture.<br />Fixed accessibility issues with navigation drawers.",
+  "version": "19.1.0",
+  "type": "jar",
+  "copyright": "Google 2014",
+  "homepage": "http://developer.android.com/tools/support-library/index.html",
+  "license": "Creative Commons Attribution 2.5",
+  "authors": [
+    {
+      "name": "Google",
+      "email": "gearshelp@gmail.com"
+    }
+  ],
+  "minimum_api": 4,
+  "source": {
+    "url": "https://github.com/AndroidGears/AndroidSupportLibraries.git",
+    "tag": "v19.1.0",
+    "sourece_files": "android-support-v4.jar"
+  },
+  "dependencies": null,
+  "tags": [
+    "android",
+    "support",
+    "libraries",
+    "google"
+  ]
+}

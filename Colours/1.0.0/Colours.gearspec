@@ -16,7 +16,7 @@
   "source": {
     "url": "https://github.com/MatthewYork/Colours.git",
     "tag": "v1.0.0",
-    "sourece_files": "ColoursLibrary"
+    "source_files": "ColoursLibrary"
   },
   "dependencies": null,
   "tags": [

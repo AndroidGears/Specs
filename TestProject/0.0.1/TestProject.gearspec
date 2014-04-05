@@ -3,7 +3,7 @@
   "summary": "Test Project is a test project for the specs repo. It makes testing easier by filling space.",
   "release_notes": "Nothing changed in this release",
   "version": "0.0.1",
-  "type": "jar",
+  "type": "module",
   "copyright": "Matthew York 2014",
   "homepage": "https://github.com/AndroidGears/TestProject",
   "license": "MIT",

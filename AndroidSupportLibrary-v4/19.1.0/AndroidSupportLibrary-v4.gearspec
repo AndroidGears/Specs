@@ -17,7 +17,7 @@
   "source": {
     "url": "https://github.com/AndroidGears/AndroidSupportLibraries.git",
     "tag": "v19.1.0",
-    "sourece_files": "android-support-v4.jar"
+    "source_files": "android-support-v4.jar"
   },
   "dependencies": null,
   "tags": [

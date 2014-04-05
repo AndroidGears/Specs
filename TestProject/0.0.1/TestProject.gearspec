@@ -17,14 +17,9 @@
   "source": {
     "url": "https://github.com/AndroidGears/TestProject.git",
     "tag": "v0.0.1",
-    "sourece_files": "lib/testLib"
+    "sourece_files": "TestLibrary"
   },
-  "dependencies": [
-    {
-      "name": "TestProject2",
-      "version": "1.0.0"
-    }
-  ],
+  "dependencies": null,
   "tags": [
     "test",
     "project",

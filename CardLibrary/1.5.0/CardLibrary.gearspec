@@ -17,7 +17,7 @@
   "source": {
     "url": "https://github.com/gabrielemariotti/cardslib.git",
     "tag": "v1.5.0",
-    "source_files": "library"
+    "source_files": ""
   },
   "dependencies": null,
   "tags": [

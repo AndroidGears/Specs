@@ -1,0 +1,30 @@
+{
+  "name": "CardLibrary",
+  "summary": "Android Library to build a UI Card.",
+  "release_notes": "LIB-EXTRA: Added a CardGridStaggeredView<br/><br/>LIB: Added the chance to use a ForegroundLinearLayout in your Card<br/><br/>LIB: Added a feature to use a own OnScrollListener with CardListView and Swipe Action<br/><br/>LIB: Added the method ViewToClickToExpand.setupCardElement() to enable the expand/collapse action on the default card elements<br/><br/>LIB: Introduced a flag to disable the default broadcast after a bitmap is attached to an imageView in CardThumbnail.",
+  "version": "1.5.0",
+  "type": "module",
+  "copyright": "Gabriele Mariotti 2014",
+  "homepage": "https://github.com/gabrielemariotti/cardslib",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Gabriele Mariotti",
+      "email": "gabri.mariotti@gmail.com"
+    }
+  ],
+  "minimum_api": 14,
+  "source": {
+    "url": "https://github.com/gabrielemariotti/cardslib.git",
+    "tag": "v1.5.0",
+    "source_files": "library"
+  },
+  "dependencies": null,
+  "tags": [
+    "card",
+    "android",
+    "table",
+    "ui",
+    "play"
+  ]
+}

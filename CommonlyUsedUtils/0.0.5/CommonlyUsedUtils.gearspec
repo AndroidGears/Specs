@@ -1,0 +1,30 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "CommonlyUsedUtils",
+  "summary": "These are some of the Utils that I find myself writing every single time I write a new application.",
+  "version": "0.0.5",
+  "type": "module",
+  "copyright": "2014 Aaron Fleshner",
+  "homepage": "https://github.com/adfleshner/CommonlyUsedUtils",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aaron Fleshner",
+      "email": "adfleshner@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/adfleshner/CommonlyUsedUtils.git",
+    "tag": "v0.0.5"
+  },
+  "tags": [
+    "alert",
+    "shared preferences",
+    "intents",
+    "phone",
+    "dialing",
+    "fragment switching",
+    "date"
+  ]
+}

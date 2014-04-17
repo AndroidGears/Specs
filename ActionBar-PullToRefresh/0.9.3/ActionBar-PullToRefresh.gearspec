@@ -17,7 +17,7 @@
   "source": {
     "url": "https://github.com/chrisbanes/ActionBar-PullToRefresh.git",
     "tag": "v0.9.3",
-    "source_files": "library"
+    "source_files": null
   },
   "tags": [
     "animation",

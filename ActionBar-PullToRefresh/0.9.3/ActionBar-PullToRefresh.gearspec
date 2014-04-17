@@ -1,0 +1,26 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "ActionBar-PullToRefresh",
+  "summary": "ActionBar-PullToRefresh provides an easy way to add a modern version of the pull-to-refresh interaction to your application.",
+  "version": "0.9.3",
+  "type": "module",
+  "copyright": "2013 Chris Banes",
+  "homepage": "https://github.com/chrisbanes/ActionBar-PullToRefresh",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Chris Banes",
+      "email": "chris@banes.me"
+    }
+  ],
+  "minimum_api": 7,
+  "source": {
+    "url": "https://github.com/chrisbanes/ActionBar-PullToRefresh.git",
+    "tag": "v0.9.3",
+    "source_files": "library"
+  },
+  "tags": [
+    "animation",
+    "reload"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "CreditsRoll",
+  "summary": "The CreditsRoll library allows you to have Star Wars-like credits rolls in your app. It\u0027s compatible with all API levels. Yes, this is API 1+!",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "2014 frakbot",
+  "homepage": "https://github.com/frakbot/CreditsRoll",
+  "license": "Apache 2",
+  "authors": [
+    {
+      "name": "Sebastiano Poggi",
+      "email": "gearshelp@gmail.com"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://github.com/frakbot/CreditsRoll.git",
+    "tag": "1.0",
+    "source_files": "lib"
+  },
+  "tags": [
+    "star wars"
+  ]
+}

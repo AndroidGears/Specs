@@ -1,0 +1,29 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "adapter-kit",
+  "summary": "Adapter Kit is a set of useful adapters for Android. The kit currently includes\n\n-Instant Adapter\n-Instant Cursor Adapter\n-Simple Section Adapter\n-Circular List Adapter",
+  "release_notes": "",
+  "version": "1.0.3",
+  "type": "module",
+  "copyright": "Copyright 2012 Mobs and Geeks",
+  "homepage": "https://github.com/ragunathjawahar/android-saripaar",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Ragunath Jawahar",
+      "email": "rj@mobsandgeeks.com"
+    }
+  ],
+  "minimum_api": 5,
+  "source": {
+    "url": "https://github.com/mobsandgeeks/adapter-kit.git",
+    "tag": "adapter-kit-0.5.3",
+    "source_files": "library"
+  },
+  "tags": [
+    "Instant Adapter",
+    "Instant Cursor Adapter",
+    "Simple Section Adapter",
+    "Circular List Adapter"
+  ]
+}

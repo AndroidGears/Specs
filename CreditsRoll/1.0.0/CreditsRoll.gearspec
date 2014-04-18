@@ -1,7 +1,9 @@
 {
   "gearState": "GearStateUninstalled",
   "name": "CreditsRoll",
-  "summary": "The CreditsRoll library allows you to have Star Wars-like credits rolls in your app. It\u0027s compatible with all API levels. Yes, this is API 1+!",
+  "summary": "The CreditsRoll library allows you to have Star Wars-like credits rolls in your app. It\u0027s compatible with all API levels. Yes, this is API 1+!
+
+  Requires Java 7",
   "version": "1.0.0",
   "type": "module",
   "copyright": "2014 frakbot",

@@ -1,0 +1,27 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "Motion",
+  "summary": "An Android library allowing images to exhibit a parallax effect",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "2014 Nathan VanBenschoten",
+  "homepage": "https://github.com/nvanbenschoten/motion",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Nathan VanBenschoten",
+      "email": "nvanbenschoten@gmail.com"
+    }
+  ],
+  "minimum_api": 11,
+  "source": {
+    "url": "https://github.com/nvanbenschoten/motion.git",
+    "tag": "v1.0.0",
+    "source_files": "motion"
+  },
+  "tags": [
+    "animation",
+    "motion",
+    "parallax"
+  ]
+}

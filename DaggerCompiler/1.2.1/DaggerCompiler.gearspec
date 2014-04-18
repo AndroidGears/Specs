@@ -17,12 +17,6 @@
   "source": {
     "url": "http://repo1.maven.org/maven2/com/squareup/dagger/dagger-compiler/1.2.1/dagger-compiler-1.2.1.jar"
   },
-  "dependencies": [
-    {
-      "name": "Dagger",
-      "version": "1.2.1"
-    }
-  ],
   "tags": [
     "dependency",
     "injection",

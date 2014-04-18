@@ -1,7 +1,13 @@
 {
   "gearState": "GearStateUninstalled",
   "name": "DaggerCompiler",
-  "summary": "A fast dependency injector for Android and Java.\n\nThe best classes in any application are the ones that do stuff: the BarcodeDecoder, the KoopaPhysicsEngine, and the AudioStreamer. These classes have dependencies; perhaps a BarcodeCameraFinder, DefaultPhysicsEngine, and an HttpStreamer.\n\nTo contrast, the worst classes in any application are the ones that take up space without doing much at all: the BarcodeDecoderFactory, the CameraServiceLoader, and the MutableContextWrapper. These classes are the clumsy duct tape that wires the interesting stuff together.\n\nDagger is a replacement for these FactoryFactory classes. It allows you to focus on the interesting classes. Declare dependencies, specify how to satisfy them, and ship your app.",
+  "summary": "A fast dependency injector for Android and Java.\n\nThe best classes in any application are the ones that do stuff: the BarcodeDecoder, the KoopaPhysicsEngine, and the AudioStreamer. These classes have dependencies; perhaps a BarcodeCameraFinder, DefaultPhysicsEngine, and an HttpStreamer.
+
+  To contrast, the worst classes in any application are the ones that take up space without doing much at all: the BarcodeDecoderFactory, the CameraServiceLoader, and the MutableContextWrapper. These classes are the clumsy duct tape that wires the interesting stuff together.
+
+  Dagger is a replacement for these FactoryFactory classes. It allows you to focus on the interesting classes. Declare dependencies, specify how to satisfy them, and ship your app.
+
+  You will need to include the Dagger JAR in your application's runtime. In order to activate code generation you will need to include the compiler JAR in your build at compile time. See: http://square.github.io/dagger/",
   "version": "1.2.1",
   "type": "jar",
   "copyright": "2013 Square, Inc.",

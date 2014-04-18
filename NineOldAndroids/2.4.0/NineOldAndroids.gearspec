@@ -1,0 +1,27 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "NineOldAndroids",
+  "summary": "Android library for using the Honeycomb (Android 3.0) animation API on all versions of the platform back to 1.0!",
+  "version": "2.4.0",
+  "type": "module",
+  "copyright": "2012 Jake Wharton",
+  "homepage": "http://nineoldandroids.com/",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Jake Wharton",
+      "email": "jakewharton@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/JakeWharton/NineOldAndroids.git",
+    "tag": "2.4.0",
+    "source_files": "library"
+  },
+  "tags": [
+    "honeycomb",
+    "animation",
+    "api"
+  ]
+}

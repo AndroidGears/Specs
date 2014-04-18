@@ -1,0 +1,28 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "Picasso",
+  "summary": "A powerful image downloading and caching library for Android",
+  "version": "2.2.0",
+  "type": "jar",
+  "copyright": "2013 Square, Inc.",
+  "homepage": "http://square.github.io/picasso/",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Jake Wharton",
+      "email": "jakewharton@gmail.com"
+    }
+  ],
+  "minimum_api": 19,
+  "source": {
+    "url": "http://repo1.maven.org/maven2/com/squareup/picasso/picasso/2.2.0/picasso-2.2.0.jar"
+  },
+  "tags": [
+    "image",
+    "caching",
+    "handling",
+    "downloading",
+    "photo",
+    "picture"
+  ]
+}

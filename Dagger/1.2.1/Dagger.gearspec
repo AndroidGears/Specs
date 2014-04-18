@@ -1,0 +1,26 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "Dagger",
+  "summary": "A fast dependency injector for Android and Java.\n\nThe best classes in any application are the ones that do stuff: the BarcodeDecoder, the KoopaPhysicsEngine, and the AudioStreamer. These classes have dependencies; perhaps a BarcodeCameraFinder, DefaultPhysicsEngine, and an HttpStreamer.\n\nTo contrast, the worst classes in any application are the ones that take up space without doing much at all: the BarcodeDecoderFactory, the CameraServiceLoader, and the MutableContextWrapper. These classes are the clumsy duct tape that wires the interesting stuff together.\n\nDagger is a replacement for these FactoryFactory classes. It allows you to focus on the interesting classes. Declare dependencies, specify how to satisfy them, and ship your app.",
+  "version": "1.2.1",
+  "type": "jar",
+  "copyright": "2013 Square, Inc.",
+  "homepage": "http://square.github.io/dagger/",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Square, Inc.",
+      "email": "jakewharton@gmail.com"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "http://repo1.maven.org/maven2/com/squareup/dagger/dagger/1.2.1/dagger-1.2.1.jar"
+  },
+  "tags": [
+    "dependency",
+    "injection",
+    "injector",
+    "reuse"
+  ]
+}

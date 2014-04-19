@@ -1,0 +1,27 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "Projectile",
+  "summary": "A convenience utility for interfacing with volley and submitting requests. Projectile is a simple to use request builder with a focus on easy configuration. Take a look below for some quick examples on how to get started.",
+  "version": "1.0.1",
+  "type": "module",
+  "copyright": "2014 Nick Tate",
+  "homepage": "https://github.com/AndroidGears/Projectile",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Nick Tate",
+      "email": "ntate22@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/AndroidGears/Projectile.git",
+    "tag": "v1.0.1",
+    "source_files": "library"
+  },
+  "tags": [
+    "volley",
+    "requests",
+    "builder"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GoogleProgressBar",
+  "summary": "Android library to display different kind of google related animations for the progressBar.",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "2013 Javier Pardo de Santayana Gómez",
+  "homepage": "https://github.com/jpardogo/GoogleProgressBar",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Javier Pardo de Santayana Gómez",
+      "email": "jpardogo@gmail.com"
+    }
+  ],
+  "minimum_api": 11,
+  "source": {
+    "url": "https://github.com/AndroidGears/GoogleProgressBar.git",
+    "tag": "v1.0.0",
+    "source_files": "library"
+  },
+  "tags": [
+    "loading",
+    "animations",
+    "spinner",
+  ]
+}

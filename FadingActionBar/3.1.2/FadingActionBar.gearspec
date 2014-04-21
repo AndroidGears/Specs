@@ -1,5 +1,4 @@
 {
-  "gearState": "GearStateUninstalled",
   "name": "FadingActionBar",
   "summary": "FadingActionBar is a library which implements the cool fading action bar effect that can be seen in the new Play Music app.\n\nThis library uses the techniques outlined by Cyril Mottier in a popular blog post.\n\nThe three most commonly used action bar implementations are supported: stock (API 11+), ActionBarCompat and ActionBarSherlock.",
   "version": "3.1.2",

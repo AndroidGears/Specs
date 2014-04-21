@@ -16,7 +16,7 @@ This library offers a simple way to create a background tint for the system bars
   ],
   "minimum_api": 8,
   "source": {
-    "url": "https://github.com/jgilfelt/SystemBarTint.git",
+    "url": "https://github.com/AndroidGears/SystemBarTint.git",
     "tag": "v1.0.3",
     "source_files": "library"
   },

@@ -15,9 +15,9 @@
   ],
   "minimum_api": 7,
   "source": {
-    "url": "https://github.com/chrisbanes/ActionBar-PullToRefresh.git",
+    "url": "https://github.com/AndroidGears/ActionBar-PullToRefresh.git",
     "tag": "v0.9.3",
-    "source_files": null
+    "source_files": "library"
   },
   "tags": [
     "animation",

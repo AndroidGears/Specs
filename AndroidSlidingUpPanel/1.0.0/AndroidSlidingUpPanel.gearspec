@@ -1,5 +1,4 @@
 {
-  "gearState": "GearStateUninstalled",
   "name": "AndroidSlidingUpPanel",
   "summary": "The 2.2 version of the Umano Android app features a sexy sliding up draggable panel for the currently playing article. This type of a panel is a common pattern also used in the Google Music app and the Rdio app. This is an open source implementation of this component that you are free to take advantage of in your apps. Umano Team \u003c3 Open Source.",
   "version": "1.0.0",

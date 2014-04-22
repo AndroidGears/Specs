@@ -1,0 +1,21 @@
+{
+  "name": "SlidingMenu",
+  "summary": "SlidingMenu is an Open Source Android library that allows developers to easily create applications with sliding menus like those made popular in the Google+, YouTube, and Facebook apps. Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "2013 Jeremy Feinstein",
+  "homepage": "https://github.com/jfeinstein10/SlidingMenu",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Jeremy Feinstein",
+      "email": "jfeinstein10@gmail.com"
+    }
+  ],
+  "minimum_api": 7,
+  "source": {
+    "url": "https://github.com/AndroidGears/SlidingMenu.git",
+    "tag": "v1.0.0",
+    "source_files": "library"
+  }
+}

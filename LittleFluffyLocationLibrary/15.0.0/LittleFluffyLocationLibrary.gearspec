@@ -1,0 +1,33 @@
+{
+  "name": "LittleFluffyLocationLibrary",
+  "summary": "Drop this tiny library into your Android app, configure your manifest, initialise it in your application\u0027s onCreate method... and that\u0027s it!\n\nLocation updates will be broadcast to your app periodically, including after phone reboot. And your users won\u0027t complain about it killing their batteries.\n\nPerfect for widgets that require periodic updates in background, and for apps that need a reasonably current location available to them on startup. Also works great for apps that do something with location periodically, such as using it to get updates from a server.\n\nBased on the concepts in, and some code adapted from, android-protips-location by Reto Meier, from his blog post A Deep Dive Into Location.\n\nRequires Android 2.1 and up. Works best with 2.2 and up.\n\nNow works with the closed-source and copyrighted Google Play Services (GMS) fused location provider, if available. If not (eg Kindle Fire, Nokia X) it falls back to using Android Open Source Project location providers.\n\nThe library works by using Froyo\u0027s passive location listener (only possible with Android 2.2 and up, hence why it works best with it), which listens to location updates requested by other apps on your phone. The most accurate location is broadcast to your app approximately every 15 minutes. If a location update hasn\u0027t been received from another app for an hour, the library forces a location update of its own.\n\nFeatures:\n\n-location updates broadcast to your app approximately every 15 minutes (if a new location update was found)\n-if no location update found for an hour, an update is requested\n-optionally, every location update is broadcast\n-frequency of regular broadcasts (default 15 minutes) and forced updates (default 60 minutes) configurable\n-force update feature\n-get latest location feature\n-choose the most accurate location from the location providers available\n-abstracts away the complexity of Google Play Services versus Android Open Source\n-debug output optional\n\nWritten by Kenton Price, Little Fluffy Toys Ltd",
+  "release_notes": "-fixed an issue whereby if a user has GPS location services enabled but not network (wifi/celltower) services enabled, the library would never return an on-demand or after-timeout location\n-workaround for a bug in Android 4.2.1 so the one-shot location request doesn\u0027t keep on repeating forever\n-allow the library to only request fine accuracy instead of course accuracy when it asks for its own location hits, by setting LocationLibrary.useFineAccuracyForRequests(true)\n-exposed the passive location provider in LocationInfo.lastProvider",
+  "version": "15.0.0",
+  "type": "jar",
+  "copyright": "Copyright littlefluffytoys",
+  "homepage": "https://code.google.com/p/little-fluffy-location-library/",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Kenton Price",
+      "email": "kenton@kentonprice.com"
+    },
+    {
+      "name": "Romain Piel",
+      "email": "romain.piel@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://little-fluffy-location-library.googlecode.com/files/littlefluffylocationlibrary_r15.jar"
+  },
+  "tags": [
+    "location",
+    "android",
+    "Reto Meier",
+    "A Dive Deep Into Location",
+    "LittleFluffyToys",
+    "BatterySaver",
+    "BackgroundUpdates"
+  ]
+}

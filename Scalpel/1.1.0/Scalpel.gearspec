@@ -1,0 +1,28 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "Scalpel",
+  "summary": "A surgical debugging tool to uncover the layers under your app.",
+  "version": "1.1.0",
+  "type": "module",
+  "copyright": "Jake Wharton 2014",
+  "homepage": "https://github.com/JakeWharton/scalpel",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Jake Wharton",
+      "email": "jakewharton@gmail.com"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://github.com/AndroidGears/scalpel.git",
+    "tag": "v1.1.0",
+    "source_files": "scalpel"
+  },
+  "tags": [
+    "debugging",
+    "layers",
+    "tool",
+    "3d"
+  ]
+}

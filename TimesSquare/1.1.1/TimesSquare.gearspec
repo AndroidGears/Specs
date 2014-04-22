@@ -1,0 +1,28 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "TimesSquare",
+  "summary": "Standalone Android widget for picking a single date from a calendar view.",
+  "version": "1.1.1",
+  "type": "module",
+  "copyright": "2012 Square, Inc.",
+  "homepage": "https://github.com/square/android-times-square",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Square",
+      "email": "jakewharton@gmail.com"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://github.com/AndroidGears/android-times-square.git",
+    "tag": "v1.1.1",
+    "source_files": "library"
+  },
+  "tags": [
+    "calendar",
+    "picker",
+    "date",
+    "chooser"
+  ]
+}

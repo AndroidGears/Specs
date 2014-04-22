@@ -1,7 +1,7 @@
 {
   "name": "Scalpel",
   "summary": "A surgical debugging tool to uncover the layers under your app.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "type": "module",
   "copyright": "Jake Wharton 2014",
   "homepage": "https://github.com/JakeWharton/scalpel",
@@ -15,7 +15,7 @@
   "minimum_api": 1,
   "source": {
     "url": "https://github.com/AndroidGears/scalpel.git",
-    "tag": "v1.1.0",
+    "tag": "v1.1.1",
     "source_files": "scalpel"
   },
   "tags": [

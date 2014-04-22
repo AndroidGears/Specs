@@ -1,0 +1,27 @@
+{
+  "gearState": "GearStateUninstalled",
+  "name": "Seismic",
+  "summary": "Android device shake detection.",
+  "version": "1.0.0",
+  "type": "jar",
+  "copyright": "2012 Square, Inc.",
+  "homepage": "https://github.com/square/seismic",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Square, Inc.",
+      "email": "jakewharton@gmail.com"
+    }
+  ],
+  "minimum_api": 2,
+  "source": {
+    "url": "https://github.com/downloads/square/seismic/square-seismic-1.0.0.jar"
+  },
+  "tags": [
+    "vibration",
+    "shake",
+    "detection",
+    "event",
+    "device"
+  ]
+}

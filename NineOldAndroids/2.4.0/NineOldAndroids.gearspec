@@ -3,7 +3,7 @@
   "name": "NineOldAndroids",
   "summary": "Android library for using the Honeycomb (Android 3.0) animation API on all versions of the platform back to 1.0!\n\nAnimation prior to Honeycomb was very limited in what it could accomplish so in Android 3.x a new API was written. With only a change in imports, we are able to use a large subset of the new-style animation with exactly the same API.\n\nThis library also includes support for animating rotation, translation, alpha, and scale on platforms prior to Honeycomb!",
   "version": "2.4.0",
-  "type": "jar",
+  "type": "module",
   "copyright": "2012 Jake Wharton",
   "homepage": "http://nineoldandroids.com/",
   "license": "Apache 2.0",
@@ -13,12 +13,15 @@
       "email": "jakewharton@gmail.com"
     }
   ],
-  "minimum_api": 1,
+  "minimum_api": 2,
   "source": {
-    "url": "https://github.com/downloads/JakeWharton/NineOldAndroids/nineoldandroids-2.4.0.jar"
+    "url": "https://github.com/AndroidGears/NineOldAndroids.git",
+    "tag": "v2.4.0",
+    "source_files": "library"
   },
   "tags": [
     "honeycomb",
-    "animation"
+    "animation",
+    "backport"
   ]
 }

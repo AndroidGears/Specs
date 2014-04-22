@@ -1,5 +1,4 @@
 {
-  "gearState": "GearStateUninstalled",
   "name": "Seismic",
   "summary": "Android device shake detection.",
   "version": "1.0.0",

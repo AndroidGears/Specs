@@ -14,7 +14,7 @@
   ],
   "minimum_api": 1,
   "source": {
-    "url": "http://repository.sonatype.org/service/local/artifact/maven/redirect?r=central-proxy&g=com.jakewharton.scalpel&a=scalpel&v=LATEST"
+    "url": "https://repository.sonatype.org/service/local/repositories/central-proxy/content/com/jakewharton/scalpel/scalpel/1.1.2/scalpel-1.1.2.jar"
   },
   "tags": [
     "debugging",

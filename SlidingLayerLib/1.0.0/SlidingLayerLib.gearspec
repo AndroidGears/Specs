@@ -18,7 +18,7 @@
   ],
   "minimum_api": 4,
   "source": {
-    "url": "https://github.com/6wunderkinder/android-sliding-layer-lib.git",
+    "url": "https://github.com/AndroidGears/android-sliding-layer-lib.git",
     "tag": "v1.0.0",
     "source_files": "Library"
   },

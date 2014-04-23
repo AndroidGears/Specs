@@ -1,5 +1,4 @@
 {
-  "gearState": "GearStateUninstalled",
   "name": "TimesSquare",
   "summary": "Standalone Android widget for picking a single date from a calendar view.",
   "version": "1.1.1",

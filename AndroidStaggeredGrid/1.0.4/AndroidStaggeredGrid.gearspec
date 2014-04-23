@@ -1,5 +1,4 @@
 {
-  "gearState": "GearStateUninstalled",
   "name": "AndroidStaggeredGrid",
   "summary": "An Android staggered grid view which supports multiple columns with rows of varying sizes.",
   "version": "1.0.4",

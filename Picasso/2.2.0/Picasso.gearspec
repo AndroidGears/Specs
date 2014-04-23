@@ -1,5 +1,4 @@
 {
-  "gearState": "GearStateUninstalled",
   "name": "Picasso",
   "summary": "A powerful image downloading and caching library for Android",
   "version": "2.2.0",

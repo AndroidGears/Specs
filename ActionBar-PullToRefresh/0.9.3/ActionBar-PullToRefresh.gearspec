@@ -1,5 +1,4 @@
 {
-  "gearState": "GearStateUninstalled",
   "name": "ActionBar-PullToRefresh",
   "summary": "ActionBar-PullToRefresh provides an easy way to add a modern version of the pull-to-refresh interaction to your application.",
   "version": "0.9.3",

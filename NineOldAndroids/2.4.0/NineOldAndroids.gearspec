@@ -1,5 +1,4 @@
 {
-  "gearState": "GearStateUninstalled",
   "name": "NineOldAndroids",
   "summary": "Android library for using the Honeycomb (Android 3.0) animation API on all versions of the platform back to 1.0!\n\nAnimation prior to Honeycomb was very limited in what it could accomplish so in Android 3.x a new API was written. With only a change in imports, we are able to use a large subset of the new-style animation with exactly the same API.\n\nThis library also includes support for animating rotation, translation, alpha, and scale on platforms prior to Honeycomb!",
   "version": "2.4.0",

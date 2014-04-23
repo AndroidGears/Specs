@@ -1,5 +1,4 @@
 {
-  "gearState": "GearStateUninstalled",
   "name": "Otto",
   "summary": "Otto is an event bus designed to decouple different parts of your application while still allowing them to communicate efficiently.\n\nForked from Guava, Otto adds unique functionality to an already refined event bus as well as specializing it to the Android platform.",
   "version": "1.3.4",

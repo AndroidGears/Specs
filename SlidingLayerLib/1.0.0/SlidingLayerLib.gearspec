@@ -1,0 +1,32 @@
+{
+  "name": "SlidingLayerLib",
+  "summary": "This repository host a library that provides an easy way to include an autonomous layer/view that slides from the side of your screen and which is fully gesture ready, the same way as our detail view in Wunderlist 2 does. This pattern can also be seen in Google+’s notification center or in Basecamp’s detail view.",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "Copyright (C) 2013 6 Wunderkinder GmbH.",
+  "homepage": "https://github.com/6wunderkinder/android-sliding-layer-lib",
+  "license": "None",
+  "authors": [
+    {
+      "name": "Jose L",
+      "email": "joseluis@ugiagonzalez.com"
+    },
+    {
+      "name": "6wunderkinder",
+      "email": "support@6wunderkinder.com"
+    }
+  ],
+  "minimum_api": 4,
+  "source": {
+    "url": "https://github.com/6wunderkinder/android-sliding-layer-lib.git",
+    "tag": "v1.0.0",
+    "source_files": "Library"
+  },
+  "tags": [
+    "Sliding",
+    "over",
+    "layer",
+    "android",
+    "6wunderkinder"
+  ]
+}

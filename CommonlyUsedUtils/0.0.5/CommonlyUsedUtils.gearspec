@@ -1,5 +1,4 @@
 {
-  "gearState": "GearStateUninstalled",
   "name": "CommonlyUsedUtils",
   "summary": "These are some of the Utils that I find myself writing every single time I write a new application.",
   "version": "0.0.5",

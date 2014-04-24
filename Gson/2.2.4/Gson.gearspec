@@ -14,7 +14,9 @@
   ],
   "minimum_api": 1,
   "source": {
-    "url": "https://github.com/AndroidGears/Gson-Jar/blob/master/2.2.4/gson-2.2.4.jar"
+    "url": "https://github.com/AndroidGears/Gson-Jar.git"
+    "source": "2.2.4"
+    "tag": "v2.2.4"
   },
   "tags": [
     "gson",

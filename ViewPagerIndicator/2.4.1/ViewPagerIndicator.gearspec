@@ -1,0 +1,41 @@
+{
+  "name": "ViewPagerIndicator",
+  "summary": "Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt\u0027s ViewFlow.\n\nWhen using the ViewPager widget it is not always obvious to the user that there are adjacent views they can navigate to. By implementing this widget you provide a clear indicator that there exists additional content which they can click or swipe to see.",
+  "version": "2.4.1",
+  "type": "module",
+  "copyright": "Copyright 2012 Jake Wharton, Copyright 2011 Patrik Åkerfeldt, Copyright 2011 Francisco Figueiredo Jr.",
+  "homepage": "http://viewpagerindicator.com/",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Jake Wharton",
+      "email": "jakewharton@gmail.com"
+    },
+    {
+      "name": "Patrik Åkerfeldt",
+      "email": "gearhelp@gmail.com"
+    },
+    {
+      "name": "Francisco Figueiredo Jr.",
+      "email": "gearshelp@gmail.com"
+    },
+    {
+      "name": "Patrik Åkerfeldt",
+      "email": "gearshelp@gmail.com"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://github.com/AndroidGears/Android-ViewPagerIndicator.git",
+    "tag": "v2.4.1",
+    "source_files": "library"
+  },
+  "tags": [
+    "pager",
+    "indicator",
+    "support library",
+    "swipe",
+    "click",
+    "ViewPager"
+  ]
+}

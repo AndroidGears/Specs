@@ -1,0 +1,32 @@
+{
+  "name": "jGit",
+  "summary": "JGit has very few dependencies, making it suitable for embedding in any Java application, whether or not the application is taking advantage of other Eclipse or OSGi technologies. JGit can be found within:\n\nEGit, Eclipse team provider for Git\nGerrit Code Review, a web based peer review system for Git\nNBGit, Git Support for NetBeans\nGitBlit, Git server for managing, viewing, and serving Git repositories\n... and some commercial products",
+  "version": "3.3.2",
+  "type": "jar",
+  "copyright": "Copyright © 2014 The Eclipse Foundation",
+  "homepage": "http://www.eclipse.org/jgit/download/",
+  "license": "Common Public License",
+  "authors": [
+    {
+      "name": "Eclipse",
+      "email": "emo@eclipse.org"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://repo.eclipse.org/content/groups/releases//org/eclipse/jgit/org.eclipse.jgit/3.3.2.201404171909-r/org.eclipse.jgit-3.3.2.201404171909-r.jar"
+  },
+  "tags": [
+    "java",
+    "Git",
+    "eclipse",
+    "push",
+    "pull",
+    "commit",
+    "fetch",
+    "branch",
+    "merge",
+    "checkout",
+    "tag"
+  ]
+}

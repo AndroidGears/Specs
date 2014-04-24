@@ -15,8 +15,8 @@
   ],
   "minimum_api": 7,
   "source": {
-    "url": "https://github.com/JakeWharton/ActionBarSherlock.git",
-    "tag": "4.4.0",
+    "url": "https://github.com/AndroidGears/ActionBarSherlock.git",
+    "tag": "v4.4.0",
     "source_files": "actionbarsherlock"
   },
   "dependencies": null,

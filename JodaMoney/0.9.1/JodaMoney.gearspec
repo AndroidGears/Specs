@@ -1,0 +1,27 @@
+{
+  "name": "Joda Money",
+  "summary": "Joda-Money provides a library of classes to store amounts of money.\nJoda-Money does not provide, nor is it intended to provide, monetary algorithms beyond the most basic and obvious. This is because the requirements for these algorithms vary widely between domains. This library is intended to act as the base layer, providing classes that should be in the JDK.",
+  "version": "0.9.1",
+  "type": "jar",
+  "copyright": "Joda.org 2014",
+  "homepage": "https://github.com/JodaOrg/joda-money",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Joda.org",
+      "email": "scolebourne@joda.org"
+    }
+  ],
+  "minimum_api": 7,
+  "source": {
+    "url": "http://search.maven.org/remotecontent?filepath\u003dorg/joda/joda-money/0.9.1/joda-money-0.9.1.jar"
+  },
+  "tags": [
+    "money",
+    "joda",
+    "currency",
+    "amount",
+    "conversion",
+    "unit"
+  ]
+}

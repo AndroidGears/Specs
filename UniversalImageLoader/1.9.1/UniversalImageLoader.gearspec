@@ -1,0 +1,27 @@
+{
+  "name": "UniversalImageLoader",
+  "summary": "This project aims to provide a reusable instrument for asynchronous image loading, caching and displaying. It is originally based on Fedor Vlasov\u0027s project and has been vastly refactored and improved since then.",
+  "version": "1.9.1",
+  "type": "module",
+  "copyright": "2011-2014 Sergey Tarasevich",
+  "homepage": "https://github.com/nostra13/Android-Universal-Image-Loader",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Sergey Tarasevich",
+      "email": "nostra13@gmail.com"
+    }
+  ],
+  "minimum_api": 5,
+  "source": {
+    "url": "https://github.com/AndroidGears/Android-Universal-Image-Loader.git",
+    "tag": "v1.9.1",
+    "source_files": "library"
+  },
+  "tags": [
+    "image",
+    "asynchronous",
+    "handling",
+    "caching"
+  ]
+}

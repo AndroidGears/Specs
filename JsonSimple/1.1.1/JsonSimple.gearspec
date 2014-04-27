@@ -1,0 +1,26 @@
+{
+  "name": "JsonSimple",
+  "summary": "JSON.simple is a simple Java toolkit for JSON. You can use JSON.simple to encode or decode JSON text.\nFeatures:\n- Full compliance with JSON specification (RFC4627) and reliable (see compliance testing)\n- Provides multiple functionalities such as encode, decode/parse and escape JSON text while keeping the library lightweight\n- Flexible, simple and easy to use by reusing Map and List interfaces\n- Supports streaming output of JSON text\n- Stoppable SAX-like interface for streaming input of JSON text (learn more)\n- Heap based parser\n- High performance (see performance testing)\n- No dependency on external libraries",
+  "version": "1.1.1",
+  "type": "jar",
+  "copyright": "2014 Yidong Fang",
+  "homepage": "https://code.google.com/p/json-simple/",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Yidong Fang",
+      "email": "fangyidong@gmail.com"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://json-simple.googlecode.com/files/json-simple-1.1.1.jar"
+  },
+  "tags": [
+    "json",
+    "parser",
+    "reader",
+    "encode",
+    "decode"
+  ]
+}

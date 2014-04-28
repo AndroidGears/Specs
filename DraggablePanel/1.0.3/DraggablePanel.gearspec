@@ -1,0 +1,34 @@
+{
+  "name": "DraggablePanel",
+  "summary": "Draggable Panel is an Android library created to build a draggable user interface similar to the new YouTube draggable video component based on Fragments or Views.\n\nThis Android library offers you two main classes to use and create your own awesome user interfaces. If you want to use it with fragments add DraggablePanel to your layout. If you want to use it with views use DraggableView and put your views inside.\n\nThis new component has been created using some concepts described on Flavien Laurent Blog and Denevell Blog.\n\nTo create this library I\u0027ve used an Android component called ViewDragHelper and ViewDragHelper.Calback. This component doesn\u0027t have too much documentation and that\u0027s the reason why I\u0027ve added some javadoc to my code in order to clarify the component usage.\n\nThis library works on Android 4.X because the scale effect is not going to work properly when the user try to drag the view. The clickable zone on a scaled view in Android 2.X is bigger than the real scaled zone.",
+  "version": "1.0.3",
+  "type": "module",
+  "copyright": "Copyright 2014 Pedro Vicente Gómez Sánchez",
+  "homepage": "https://github.com/pedrovgs/DraggablePanel",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Pedro Vicente Gómez Sánchez",
+      "email": "pedrovicente.gomez@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/pedrovgs/DraggablePanel.git",
+    "tag": "1.0.3"
+  },
+  "dependencies": [
+    {
+      "name": "NineOldAndroids",
+      "version": "2.4.0"
+    }
+  ],
+  "tags": [
+    "Flavien Laurent",
+    "Denevell",
+    "Draggable Panel",
+    "UI",
+    "nineoldandroids",
+    "YouTube graphic"
+  ]
+}

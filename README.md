@@ -1,4 +1,4 @@
 Specs Repository for AndroidGears
 =====
 
-46 libraries as of today
+47 libraries as of today

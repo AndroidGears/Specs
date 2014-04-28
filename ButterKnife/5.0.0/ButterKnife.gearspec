@@ -1,0 +1,25 @@
+{
+  "name": "ButterKnife",
+  "summary": "View \"injection\" library for Android which uses annotation processing to generate boilerplate code for you.\n\nEliminate findViewById calls by using @InjectView on fields.\nGroup multiple views in a list using @InjectViews. Operate on all of them at once with actions, setters, or properties.\nEliminate anonymous inner-classes for listeners by annotating methods with @OnClick and others.",
+  "release_notes": ".",
+  "version": "5.0.0",
+  "type": "jar",
+  "copyright": "Copyright 2013 Jake Wharton",
+  "homepage": "http://jakewharton.github.io/butterknife/",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Jake Wharton",
+      "email": "jakewharton@gmail.com"
+    }
+  ],
+  "minimum_api": 5,
+  "source": {
+    "url": "http://repo1.maven.org/maven2/com/jakewharton/butterknife/5.0.0/butterknife-5.0.0.jar"
+  },
+  "tags": [
+    "Injection",
+    "annotation processing",
+    "annotation"
+  ]
+}

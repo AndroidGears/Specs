@@ -1,0 +1,32 @@
+{
+  "name": "PhotoView",
+  "summary": "PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView. It is currently being used in photup.\n\nFeatures\n\nOut of the box zooming, using multi-touch and double-tap.\nScrolling, with smooth scrolling fling.\nWorks perfectly when using used in a scrolling parent (such as ViewPager).\nAllows the application to be notified when the displayed Matrix has changed. Useful for when you need to update your UI based on the current zoom/scroll position.\nAllows the application to be notified when the user taps on the Photo.",
+  "release_notes": "v1.2.2\n\nNew version of Support library (v13)\nSupport for Gradle integration\nRemoved thrown error, when underlying ImageView was garbage collected\nLogManager (interface to Logger) so logs can be disabled/redirected when needed\nTargets latest android sdk (18)\nSupport for restoring state (zoom/position) of underlying ImageView\nAdded support for rotation\nFixed incomplete touch event propagation (no reason to use HackyViewPager as of now)\nAdded Travis CI support\nAdded Github Maven repository of PhotoView (see branch maven)\nTaking into account padding of ImageView\nChanged and deprecated naming of IPhotoView interface\nFull list of fixed issues is here: PhotoView Milestone 1.2.2",
+  "version": "1.2.3",
+  "type": "module",
+  "copyright": "Copyright 2011, 2012 Chris Banes ",
+  "homepage": "https://github.com/chrisbanes/PhotoView",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Chris Barnes",
+      "email": "chris@banes.me"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/AndroidGears/PhotoView.git",
+    "tag": "v1.2.3",
+    "source_files": "library"
+  },
+  "tags": [
+    "chrisbanes",
+    "zooming",
+    "imageview",
+    "view",
+    "scrolling",
+    "pager",
+    "photo",
+    "double tap"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "WizardPager",
+  "summary": "Wizard Pager is a library that provides an example implementation of a Wizard UI on Android, it\u0027s based of Roman Nurik\u0027s wizard pager (https://code.google.com/p/romannurik-code/source/browse/misc/wizardpager)\n\nI\u0027ve updated Roman\u0027s code to use the latest support library, it is now structured as a library project, and it\u0027s backwards compatible with Android 2.2",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "2013 Tech Freak",
+  "homepage": "https://github.com/TechFreak/WizardPager",
+  "license": "Apache ",
+  "authors": [
+    {
+      "name": "Tech Freak",
+      "email": "tech.freak.blog@gmail.com"
+    },
+    {
+      "name": "Roman Nurik",
+      "email": " roman@nurik.net"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/AndroidGears/WizardPager.git",
+    "tag": "v1.0.0",
+    "source_files": "LibWizardPager"
+  },
+  "tags": [
+    "Roman Nurik",
+    "wizard pager",
+    "view pager",
+    "pager",
+    "UI",
+    "Android",
+    "2.2"
+  ]
+}

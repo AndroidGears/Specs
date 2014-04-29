@@ -1,0 +1,36 @@
+{
+  "name": "retrofit",
+  "summary": "Introduction\n\nRetrofit turns your REST API into a Java interface.\n\nUse annotations to describe the HTTP request:\n\n-URL parameter replacement and query parameter support\n-Object conversion to request body (e.g., JSON, protocol buffers)\n-Multipart request body and file upload\n\nAPI Declaration\n\nAnnotations on the interface methods and its parameters indicate how a request will be handled.\n\nREQUEST METHOD\n\nEvery method must have an HTTP annotation that provides the request method and relative URL. There are five built-in annotations: GET, POST, PUT, DELETE, and HEAD. The relative URL of the resource is specified in the annotation.",
+  "version": "1.5.0",
+  "type": "jar",
+  "copyright": "Copyright 2013 Square, Inc.",
+  "homepage": "http://square.github.io/retrofit/",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Square, Inc.",
+      "email": "gearshelp@gmail.com"
+    },
+    {
+      "name": "Jake Wharton",
+      "email": "jakewharton@gmail.com"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "http://repo1.maven.org/maven2/com/squareup/retrofit/retrofit/1.5.0/retrofit-1.5.0.jar"
+  },
+  "tags": [
+    "annotation",
+    "http",
+    "api",
+    "restful",
+    "rest",
+    "URL",
+    "GET",
+    "POST",
+    "PUT",
+    "DELETE",
+    "HEAD"
+  ]
+}

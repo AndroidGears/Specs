@@ -1,0 +1,24 @@
+{
+  "name": "Jsoup",
+  "summary": "jsoup is a Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.\n\njsoup implements the WHATWG HTML5 specification, and parses HTML to the same DOM as modern browsers do.\n\n- scrape and parse HTML from a URL, file, or string\n- find and extract data, using DOM traversal or CSS selectors\n- manipulate the HTML elements, attributes, and text\n- clean user-submitted content against a safe white-list, to prevent XSS attacks\noutput tidy HTML\n- jsoup is designed to deal with all varieties of HTML found in the wild; from pristine and validating, to invalid tag-soup; jsoup will create a sensible parse tree.",
+  "version": "1.7.3",
+  "type": "jar",
+  "copyright": "2009-2013 Jonathan Hedley",
+  "homepage": "http://jsoup.org",
+  "license": "MIT License",
+  "authors": [
+    {
+      "name": "Jonathan Hedley",
+      "email": "jonathan@hedley.net"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "http://jsoup.org/packages/jsoup-1.7.3.jar"
+  },
+  "tags": [
+    "html",
+    "parser",
+    "document"
+  ]
+}

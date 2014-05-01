@@ -1,0 +1,30 @@
+{
+  "name": "SmoothProgressBar",
+  "summary": "Small library allowing you to make a smooth indeterminate progress bar. You can either user your progress bars and set this drawable or use directly the SmoothProgressBarView.",
+  "version": "0.4.0",
+  "type": "module",
+  "copyright": "2013 Antoine Merle",
+  "homepage": "https://github.com/castorflex/SmoothProgressBar",
+  "license": "BEER-WARE",
+  "authors": [
+    {
+      "name": "Antoine Merle",
+      "email": "merle.antoine@gmail.com"
+    }
+  ],
+  "minimum_api": 7,
+  "source": {
+    "url": "https://github.com/AndroidGears/SmoothProgressBar.git",
+    "tag": "0.4.0",
+    "source_files": "library"
+  },
+  "tags": [
+    "Widget",
+    "ProgressBar",
+    "Horizontal",
+    "indeterminateDrawable",
+    "bar",
+    "custom",
+    "interpolators"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "MongoDB",
+  "summary": "MongoDB (from \"humongous\") is an open-source document database, and the leading NoSQL database. Written in C++, MongoDB features",
+  "version": "2.12.1",
+  "type": "module",
+  "copyright": "2014 MongoDB, Inc.",
+  "homepage": "https://github.com/mongodb/mongo-java-driver",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "MongoDB, Inc.",
+      "email": "jeff.yemin@mongodb.com"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://github.com/mongodb/mongo-java-driver.git",
+    "tag": "r2.12.1"
+  },
+  "tags": [
+    "database",
+    "db",
+    "local",
+    "java",
+    "orm",
+    "object",
+    "relational",
+    "mapper",
+    "document",
+    "noSQL"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "CommonsIO",
+  "summary": "Commons IO is a library of utilities to assist with developing IO functionality.",
+  "version": "2.4.0",
+  "type": "jar",
+  "copyright": "2014 Apache Software Foundation",
+  "homepage": "http://commons.apache.org/proper/commons-io/index.html",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Apache Software Foundation",
+      "email": "sanders@apache.org"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://raw.githubusercontent.com/AndroidGears/CommonsIO/v2.4.0/commons-io-2.4.jar"
+  },
+  "tags": [
+    "file",
+    "utility",
+    "comparison",
+    "input",
+    "output",
+    "filters"
+  ]
+}

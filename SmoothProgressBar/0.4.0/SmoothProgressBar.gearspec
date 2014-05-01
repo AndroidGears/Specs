@@ -15,7 +15,7 @@
   "minimum_api": 7,
   "source": {
     "url": "https://github.com/AndroidGears/SmoothProgressBar.git",
-    "tag": "0.4.0",
+    "tag": "v0.4.0",
     "source_files": "library"
   },
   "tags": [

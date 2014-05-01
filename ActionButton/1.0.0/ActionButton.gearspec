@@ -1,0 +1,29 @@
+{
+  "name": "ActionButton",
+  "summary": "Implementing an ActionButton in your Android apps is extremely simple, it works very similarly to creating a toast or AlertDialog.",
+  "release_notes": "Note: Currently only supported for API version 14 and higher, if I have time I may be able to backport it to lower, but I highly suggest people begin setting their minSdkVersion to 14, there are so many more possibilities and Gingerbread is dying!",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "Copyright 2013-2014 Jacob Klinker",
+  "homepage": "https://github.com/klinker41/Android-ActionButton",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Jacob Klinker",
+      "email": "jklinker1@gmail.com"
+    }
+  ],
+  "minimum_api": 14,
+  "source": {
+    "url": "https://github.com/AndroidGears/Android-ActionButton.git",
+    "tag": "v1.0.0"
+  },
+  "tags": [
+    "Toast",
+    "action",
+    "alert dialog",
+    "Button",
+    "klinker",
+    "simple"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "CommonsCollections",
+  "summary": "The Java Collections Framework was a major addition in JDK 1.2. It added many powerful data structures that accelerate development of most significant Java applications. Since that time it has become the recognised standard for collection handling in Java.",
+  "release_notes": "Major changes since 3.2.1\n- Use of generics and other language features introduced in Java 5 (varargs, Iterable)\n- Removed deprecated classes / methods and features which are now supported by the JDK\n- Replaced Buffer interface with java.util.Queue\n- Added concept of split maps with respective interfaces Put / Get (see also package splitmap)\n- Added new Trie interface together with an implementation of a Patricia Trie",
+  "version": "4.0.0",
+  "type": "module",
+  "copyright": "2014 Apache Software Foundation",
+  "homepage": "https://commons.apache.org/proper/commons-collections/",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Apache Software Foundation",
+      "email": "mbenson@apache.org"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://github.com/AndroidGears/commons-collections.git",
+    "tag": "v4.0.0"
+  },
+  "tags": [
+    "java",
+    "arrays",
+    "data",
+    "structures",
+    "combining",
+    "lists",
+    "hash maps"
+  ]
+}

@@ -12,7 +12,7 @@
       "email": "tobrien@apache.org"
     }
   ],
-  "minimum_api": 2,
+  "minimum_api": 1,
   "source": {
     "url": "https://raw.githubusercontent.com/AndroidGears/CommonsCodec/v1.9.0/commons-codec-1.9.jar"
   },

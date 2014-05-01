@@ -17,6 +17,12 @@
     "url": "https://github.com/AndroidGears/scribe-java.git",
     "tag": "v1.3.5"
   },
+  "dependencies": [
+    {
+      "name": "CommonsCodec",
+      "version": "1.9.0"
+    }
+  ],
   "tags": [
     "oauth",
     "authentication",

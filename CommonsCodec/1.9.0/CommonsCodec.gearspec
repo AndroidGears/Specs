@@ -2,7 +2,7 @@
   "name": "CommonsCodec",
   "summary": "Apache Commons Codec (TM) software provides implementations of common encoders and decoders such as Base64, Hex, Phonetic and URLs.",
   "version": "1.9.0",
-  "type": "module",
+  "type": "jar",
   "copyright": "2014 Apache Software Foundation",
   "homepage": "http://commons.apache.org/proper/commons-codec/",
   "license": "Apache 2.0",
@@ -12,10 +12,9 @@
       "email": "tobrien@apache.org"
     }
   ],
-  "minimum_api": 1,
+  "minimum_api": 2,
   "source": {
-    "url": "https://github.com/AndroidGears/commons-codec.git",
-    "tag": "v1.9.0"
+    "url": "https://raw.githubusercontent.com/AndroidGears/CommonsCodec/v1.9.0/commons-codec-1.9.jar"
   },
   "tags": [
     "encoders",

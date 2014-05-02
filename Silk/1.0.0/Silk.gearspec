@@ -1,0 +1,27 @@
+{
+  "name": "Silk",
+  "summary": "A library containing a large set of utilities and views for Android apps, such as fragments that load from the web and automatically cache their contents locally.",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "2014 Aidan Follestad",
+  "homepage": "https://github.com/afollestad/Silk",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Aidan Follestad",
+      "email": "drummer.aidan@gmail.com"
+    }
+  ],
+  "minimum_api": 15,
+  "source": {
+    "url": "https://github.com/AndroidGears/Silk.git",
+    "tag": "v1.0.0"
+  },
+  "tags": [
+    "Silk",
+    "utilities",
+    "views",
+    "simple",
+    "automatically"
+  ]
+}

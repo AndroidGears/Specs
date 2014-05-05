@@ -1,0 +1,28 @@
+{
+  "name": "SuperToast",
+  "summary": "The SuperToasts library enhances and builds upon the Android Toast class. Some of the features of this library include context sensitive toasts (SuperActivityToasts), toasts with buttons and icons, non context sensitive toasts (SuperToasts), and a new style of toasts (SuperCardToasts) with many customization options for each. Some of the ideas for this library came from the UndoBar Library and the Crouton Library.",
+  "version": "1.3.4",
+  "type": "module",
+  "copyright": "2013 JohnPersano",
+  "homepage": "https://github.com/JohnPersano/SuperToasts/wiki",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "John Persano",
+      "email": "gearshelp@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/AndroidGears/SuperToasts.git",
+    "tag": "v1.3.4",
+    "source_files": "supertoasts"
+  },
+  "tags": [
+    "beta",
+    "undobar",
+    "crouton",
+    "ui",
+    "framework"
+  ]
+}

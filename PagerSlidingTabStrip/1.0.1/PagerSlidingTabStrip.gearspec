@@ -1,0 +1,30 @@
+{
+  "name": "PagerSlidingTabStrip",
+  "summary": "Interactive paging indicator widget, compatible with the ViewPager from the Android Support Library.\n\nTo not just look like another Play Store styled app, go and adjust these values to match your brand:\n\n-pstsIndicatorColor Color of the sliding indicator\n-pstsUnderlineColor Color of the full-width line on the bottom of the view\n-pstsDividerColor Color of the dividers between tabs\n-pstsIndicatorHeightHeight of the sliding indicator\n-pstsUnderlineHeight Height of the full-width line on the bottom of the view\n-pstsDividerPadding Top and bottom padding of the dividers\n-pstsTabPaddingLeftRight Left and right padding of each tab\n-pstsScrollOffset Scroll offset of the selected tab\n-pstsTabBackground Background drawable of each tab, should be a StateListDrawable\n-pstsShouldExpand If set to true, each tab is given the same weight, default false\n-pstsTextAllCaps If true, all tab titles will be upper case, default true\n\nAll attributes have their respective getters and setters to change them at runtime",
+  "release_notes": "-1.0.1\n\nUpgraded gradle build files\nChanged package name to com.astuetz.PagerSlidingTabStrip\n#37, #41 Added psts prefix to all attributes in attrs.xml\n#46 Changed the shouldExpand behavior to set the layout at the time the tab is added",
+  "version": "1.0.1",
+  "type": "module",
+  "copyright": "Copyright 2013 Andreas Stuetz",
+  "homepage": "https://github.com/astuetz/PagerSlidingTabStrip",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Andreas Stuetz",
+      "email": "andreas.stuetz@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/AndroidGears/PagerSlidingTabStrip.git",
+    "tag": "v1.0.1",
+    "source_files": "library"
+  },
+  "tags": [
+    "view pager",
+    "pager",
+    "tabs",
+    "play store",
+    "sliding",
+    "strip"
+  ]
+}

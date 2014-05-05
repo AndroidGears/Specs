@@ -1,0 +1,28 @@
+{
+  "name": "NumberProgressBar",
+  "summary": "The NumberProgressBar is a bar, slim and sexy (every man wants! ).\n\nI decided to do this because I was really tired of android original progress bar. So, I made some change, added more color style for this.\n\nThe reached area and unreached area:\n\ncolor\nheight\nThe text area:\n\ncolor\ntext size\ndistance between reached area and unreached area\nThe bar:\n\nmax progress\ncurrent progress",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "2014 daimajia",
+  "homepage": "https://github.com/daimajia/NumberProgressBar",
+  "license": "None",
+  "authors": [
+    {
+      "name": "daimajia",
+      "email": "daimajia@gmail.com"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://github.com/daimajia/NumberProgressBar.git",
+    "tag": "v1.0",
+    "source_files": "library"
+  },
+  "tags": [
+    "Progress Bar",
+    "Bar",
+    "beautiful",
+    "Number",
+    "slim"
+  ]
+}

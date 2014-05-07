@@ -15,7 +15,7 @@
   ],
   "minimum_api": 3,
   "source": {
-    "url": "https://github.com/johnkil/Android-RobotoTextView.git",
+    "url": "https://github.com/AndroidGears/Android-RobotoTextView.git",
     "tag": "2.0.1",
     "source_files": "robototextview"
   },

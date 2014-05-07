@@ -1,0 +1,29 @@
+{
+  "name": "SugarORM",
+  "summary": "1. How does it help.\nIt is intended to simplify the interaction with SQLite database in Android.\n\nIt eliminates writing SQL queries to interact with SQLite db.\nIt takes care of creating your database.\nIt manages object relationships too.\nIt provides you with clear and simple APIs for db operations\n\n2. Why it was made\nWe felt the need for it while building Android apps that had following characteristics:\n\nFairly large and complex data model.\nPrimary work was to save/retrieve and iterate over the business objects.\nLot of boiler plate code for the db operations.\nWe wanted to write our business logic in less technical and more business fashion.\n\n3. What it provides\nThere are two parts to it:\n\ndatabase creation\nsimple APIs to manipulate your business objects\n",
+  "release_notes": "\npackage restriction for domain classes.\nmetadata caching\nQueryBuilder v1\nDatabase Migrations\nProvision for Raw queries\nBetter and more organized api guide and usage instructions.",
+  "version": "1.2.0",
+  "type": "jar",
+  "copyright": "Copyright 2013 satyan",
+  "homepage": "http://satyan.github.io/sugar/index.html",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Satya Narayan",
+      "email": "satya@satyanarayan.in"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://raw.github.com/satyan/sugar/master/dist/sugar-1.2.jar"
+  },
+  "tags": [
+    "orm",
+    "sugar",
+    "database",
+    "db",
+    "api",
+    "object relation mapping",
+    "mapping"
+  ]
+}

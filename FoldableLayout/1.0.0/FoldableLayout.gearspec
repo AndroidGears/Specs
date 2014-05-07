@@ -1,0 +1,28 @@
+{
+  "name": "FoldableLayout",
+  "summary": "Android widgets to implement folding animation.",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "2014 alexvasilkov",
+  "homepage": "https://github.com/alexvasilkov/FoldableLayout",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "alexvasilkov",
+      "email": "none"
+    }
+  ],
+  "minimum_api": 14,
+  "source": {
+    "url": "https://github.com/AndroidGears/FoldableLayout.git",
+    "tag": "v1.0.0",
+    "source_files": "library"
+  },
+  "tags": [
+    "foldable",
+    "facebook paper",
+    "animation",
+    "flip",
+    "flipboard"
+  ]
+}

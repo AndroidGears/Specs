@@ -1,0 +1,30 @@
+{
+  "name": "EnhancedListView",
+  "summary": "An Android ListView with enhanced functionality (e.g. Swipe To Dismiss and Undo)\n\nThe documentation can be found in the wiki: https://github.com/timroes/EnhancedListView/wiki",
+  "release_notes": "All resources (layouts, colors, etc.) got an elv_ prefix. So if you have changed some of these in your own app, you must make sure to also add the elv_ prefix to your resources (e.g. to change or internationalize the \"Undo\" string, you will need to have a string resource elv_undo instead of undo).\n\nFixes #38 - Allow swiping in touch intercepting parents",
+  "version": "0.3.2",
+  "type": "module",
+  "copyright": "Copyright 2013 Tim Roes",
+  "homepage": "https://github.com/timroes/EnhancedListView",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Tim Roes",
+      "email": "mail@timroes.de"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://github.com/timroes/EnhancedListView.git",
+    "tag": "v0.3.2",
+    "source_files": "EnhancedListView"
+  },
+  "tags": [
+    "listview",
+    "swipe",
+    "dismiss",
+    "nine old androids",
+    "noa",
+    "undo"
+  ]
+}

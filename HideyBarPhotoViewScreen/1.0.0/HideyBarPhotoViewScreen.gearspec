@@ -1,0 +1,32 @@
+{
+  "name": "HideyBarPhotoViewScreen",
+  "summary": "This library has been created for the need of showing photos like the native pictures gallery does.\n\nThe current behaviour to show pictures in Gallery in Android is saving the picture into the phone and then call an Intent with ACTION_VIEW. After that, the user will be redirected to the Gallery and will be able to see the picture.\n\nSometimes, we only want to display that picture in full screen and would like to open that picture without leaving our app and all without saving this picture in the device.\n\nThe native app of the Android gallery hides the action bar in two cases:\n\n1-The user enters in the photo view screen and after X seconds the actionbar will be hidden.\n\n2-Once hidden, the users taps the photo so the actionbar becomes visible and being able to perform actions using the menu items. Then after the X seconds, the actionbar will be hidden again.\n\nIn this library you can set up the time till the actionbar hides.\n\nYou can load both pictures from resources or fetch a picture from an url using Picasso (Square).\n\nThe zoom of the pictures is handled by PhotoView from Chris Banes",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "Copyright 2014 Jonathan Fragoso Perez",
+  "homepage": "https://github.com/jfragosoperez/HideyBarPhotoViewScreen",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "jfragosoperez",
+      "email": "none"
+    }
+  ],
+  "minimum_api": 11,
+  "source": {
+    "url": "https://github.com/AndroidGears/HideyBarPhotoViewScreen.git",
+    "tag": "v1.0.0",
+    "source_files": "HideyBarPhotoViewScreen"
+  },
+  "tags": [
+    "photoView",
+    "picasso",
+    "images",
+    "zooming",
+    "hide",
+    "show",
+    "tap",
+    "gallery",
+    "picture"
+  ]
+}

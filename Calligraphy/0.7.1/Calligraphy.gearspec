@@ -1,0 +1,29 @@
+{
+  "name": "Calligraphy",
+  "summary": "Custom fonts in Android the easy way.\n\nAre you fed up of Custom views to set fonts? Or traversing the ViewTree to find TextViews? Yeah me too.",
+  "version": "0.7.1",
+  "type": "jar",
+  "copyright": "Copyright 2013 Christopher Jenkins",
+  "homepage": "https://github.com/chrisjenx/Calligraphy",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Christopher Jenkins",
+      "email": "none"
+    }
+  ],
+  "minimum_api": 7,
+  "source": {
+    "url": "http://search.maven.org/remotecontent?filepath\u003duk/co/chrisjenx/calligraphy/0.7.1/calligraphy-0.7.1.jar"
+  },
+  "tags": [
+    "font",
+    "custom",
+    "customize",
+    "text",
+    "easy",
+    "simple",
+    "beautiful",
+    "fontFamily"
+  ]
+}

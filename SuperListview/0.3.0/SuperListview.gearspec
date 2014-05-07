@@ -1,0 +1,29 @@
+{
+  "name": "SuperListview",
+  "summary": "This library is making listview way more easy to use. No need to embed the listview in a framelayout to add the progressbar or the emptyview. It\u0027s all right here.\n\nFeatures built in:\n\n-ProgressBar while adapter hasn\u0027t been set\n-EmptyView if adapter is empty\n-SwipeRefreshLayout (Google\u0027s one)\n-Open to suggestions (and Pull Request ofc) for others :)\n-Infinite scrolling, when you reach the X last item, load more of them.",
+  "version": "0.3.0",
+  "type": "module",
+  "copyright": "Copyright (c) 2014 Quentin Dommerc",
+  "homepage": "https://github.com/dommerq/SuperListview",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Quentin DOMMERC",
+      "email": "dommer.q@gmail.com"
+    }
+  ],
+  "minimum_api": 14,
+  "source": {
+    "url": "https://github.com/AndroidGears/SuperListview.git",
+    "tag": "v0.3.0",
+    "source_files": "SuperListviewLibrary"
+  },
+  "tags": [
+    "ProgressBar",
+    "EmptyView",
+    "SwipeRefreshLayout",
+    "Infinite scrolling",
+    "super",
+    "listview"
+  ]
+}

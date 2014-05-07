@@ -1,0 +1,36 @@
+{
+  "name": "svgAndroid",
+  "summary": "This is a compact and straightforward library for parsing SVG files and rendering them in an Android Canvas. By using vector art, the pain of supporting various screen sizes and densities in Android can be reduced. This was the library used to render the artwork and the interface of Androidify.",
+  "release_notes": "Version 1.1\nMay 17, 2011\n\n-Improved support for path parsing for Inkscape compatibility.\n-Support for fill and stroke attributes to be specified with styles rather than directly (also for Inkscape).\n",
+  "version": "1.1.0",
+  "type": "jar",
+  "copyright": "2011 Google",
+  "homepage": "https://code.google.com/p/svg-android/",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Google Inc",
+      "email": "gearshelp@gmail.com"
+    },
+    {
+      "name": "David Barri",
+      "email": "japgolly@gmail.com"
+    }
+  ],
+  "minimum_api": 4,
+  "source": {
+    "url": "https://svg-android.googlecode.com/files/svg-android-1.1.jar"
+  },
+  "tags": [
+    "svg",
+    "images",
+    "raw",
+    "androidify",
+    "rendering",
+    "canvas",
+    "vector",
+    "live wallpaper",
+    "pipeline",
+    "draw"
+  ]
+}

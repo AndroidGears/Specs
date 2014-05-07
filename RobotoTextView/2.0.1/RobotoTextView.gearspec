@@ -1,0 +1,27 @@
+{
+  "name": "RobotoTextView",
+  "summary": "Implementation of a TextView and all its direct/indirect subclasses with native support for the Roboto fonts, includes the brand new Roboto Slab fonts.\n\nImplemented next views:\n\nRobotoTextView\nRobotoAutoCompleteTextView\nRobotoButton\nRobotoCheckBox\nRobotoCheckedTextView\nRobotoChronometer\nRobotoCompoundButton\nRobotoDigitalClock\nRobotoEditText\nRobotoExtractEditText\nRobotoMultiAutoCompleteTextView\nRobotoRadioButton\nRobotoSwitch\nRobotoTextClock\nRobotoToggleButton",
+  "release_notes": "Make typeface constants public.\nDefault to Roboto Regular instead of Thin when no typeface is specified.",
+  "version": "2.0.1",
+  "type": "module",
+  "copyright": "Copyright 2013 Evgeny Shishkin",
+  "homepage": "http://johnkil.github.io/Android-RobotoTextView",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Evgeny Shishkin",
+      "email": "johnkil78@gmail.com"
+    }
+  ],
+  "minimum_api": 3,
+  "source": {
+    "url": "https://github.com/johnkil/Android-RobotoTextView.git",
+    "tag": "2.0.1",
+    "source_files": "robototextview"
+  },
+  "tags": [
+    "TextView",
+    "Roboto",
+    "backport"
+  ]
+}

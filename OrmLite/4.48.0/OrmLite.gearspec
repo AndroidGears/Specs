@@ -1,0 +1,29 @@
+{
+  "name": "OrmLite",
+  "summary": "OrmLite - Lightweight Java ORM Supports Android and SQLite\n\nObject Relational Mapping Lite (ORM Lite) provides some lightweight functionality for persisting Java objects to SQL databases while avoiding the complexity and overhead of more standard ORM packages. It supports a number of SQL databases using JDBC and also supports Sqlite with native calls to Android OS database APIs. Documentation about how to configure ORMLite for Android specifically is available in the manual.",
+  "release_notes": "ORMLite provides the following features:\n\n-Setup your classes by simply adding Java annotations.\n-Powerful abstract Database Access Object (DAO) classes.\n-Flexible QueryBuilder to easily construct simple and complex queries.\n-Supports MySQL, Postgres, Microsoft SQL Server, H2, Derby, HSQLDB, and Sqlite and can be extended to additional databases relatively easily.\n-Provisional support for DB2, Oracle, ODBC, and Netezza. Contact the author if your database type is not supported.\n-Handles \"compiled\" SQL statements for repetitive query tasks.\n-Supports \"foreign\" objects with the class field being the object but an id stored in the database table.\n-Basic support for database transactions.\n-Auto generates SQL to create and drop database tables.\n-Spring configuration support for DOAs and class configurations.\n-Support for configuring of tables and fields without annotations.",
+  "version": "4.48.0",
+  "type": "jar",
+  "copyright": "2011 Gray Watson ",
+  "homepage": "http://ormlite.com/sqlite_java_android_orm.shtml",
+  "license": " Creative Commons Attribution-Share Alike",
+  "authors": [
+    {
+      "name": "Gray Watson",
+      "email": "None"
+    }
+  ],
+  "minimum_api": 5,
+  "source": {
+    "url": "http://ormlite.com/releases/4.48/ormlite-android-4.48.jar"
+  },
+  "tags": [
+    "Object Relational Mapping Lite",
+    "database",
+    "sql",
+    "sqlite",
+    "JDBC",
+    "ORM",
+    "table"
+  ]
+}

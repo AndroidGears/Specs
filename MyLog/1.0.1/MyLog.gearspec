@@ -1,0 +1,26 @@
+{
+  "name": "MyLog",
+  "summary": "Logging is very easy this is a simple util that makes turning logging on and off even more simple.\nMyLog is a Util that adds a boolean to the android.util.log. So you no longer have to throw an if statment or something around your log statement to have an easy toggle on and off. ",
+  "version": "1.0.1",
+  "type": "module",
+  "copyright": " Copyright 2013 Aaron Fleshner",
+  "homepage": "https://github.com/adfleshner/MyLog",
+  "license": "Beerware",
+  "authors": [
+    {
+      "name": "Aaron Fleshner",
+      "email": "adfleshner@gmail.com"
+    }
+  ],
+  "minimum_api": 3,
+  "source": {
+    "url": "https://github.com/adfleshner/MyLog.git",
+    "tag": "v1.0.1"
+  },
+  "tags": [
+    "log",
+    "easy",
+    "one liner",
+    "simple"
+  ]
+}

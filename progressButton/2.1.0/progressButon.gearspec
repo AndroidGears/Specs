@@ -1,0 +1,29 @@
+{
+  "name": "progressButon",
+  "summary": "ProgressButton is a custom progress indicator with a tiny footprint. The default implementation provides a pin progress button as seen on the Android design site. ",
+  "version": "2.1.0",
+  "type": "module",
+  "copyright": "Copyright 2013 Prateek Srivastava, Copyright 2012 Roman Nurik",
+  "homepage": "http://f2prateek.com/progressbutton/",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Prateek Srivastava",
+      "email": "f2prateek@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/AndroidGears/progressbutton.git",
+    "tag": "v2.1.0",
+    "source_files": "progressbutton"
+  },
+  "tags": [
+    "progress",
+    "pinned",
+    "permanent",
+    "ui",
+    "android",
+    "indicator"
+  ]
+}

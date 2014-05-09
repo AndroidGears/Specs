@@ -1,0 +1,27 @@
+{
+  "name": "AndroidProcessButton",
+  "summary": "Custom android button which can indicate progress.",
+  "version": "0.0.2",
+  "type": "module",
+  "copyright": "Copyright (c) 2014 Danylyk Dmytro",
+  "homepage": "https://github.com/dmytrodanylyk/android-process-buton",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Danylyk Dmytro",
+      "email": "dmytrodanylyk@gmail.com"
+    }
+  ],
+  "minimum_api": 14,
+  "source": {
+    "url": "https://github.com/AndroidGears/android-process-buton.git",
+    "tag": "v0.0.2",
+    "source_files": "library"
+  },
+  "tags": [
+    "button",
+    "progress",
+    "colors",
+    "indicate"
+  ]
+}

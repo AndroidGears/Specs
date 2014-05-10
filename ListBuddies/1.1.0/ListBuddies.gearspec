@@ -1,0 +1,29 @@
+{
+  "name": "ListBuddies",
+  "summary": "Android library of a pair of auto-scroll circular parallax ListViews like the ones on the expedia app home page.",
+  "version": "1.1.0",
+  "type": "module",
+  "copyright": "Copyright 2013 Javier Pardo de Santayana Gómez",
+  "homepage": "https://github.com/jpardogo/ListBuddies",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Javier Pardo de Santayana Gómez",
+      "email": "jpardogo@gmail.com"
+    }
+  ],
+  "minimum_api": 10,
+  "source": {
+    "url": "https://github.com/AndroidGears/ListBuddies.git",
+    "tag": "v1.1.0",
+    "source_files": "library"
+  },
+  "tags": [
+    "list",
+    "dual",
+    "circular parallax",
+    "parallax",
+    "auto-scroll",
+    "pair"
+  ]
+}

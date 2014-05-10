@@ -1,0 +1,27 @@
+{
+  "name": "TwitterAuthFragment",
+  "summary": "Twitter auth api with single method call using android fragment.",
+  "version": "1.1.0",
+  "type": "jar",
+  "copyright": "Copyright 2014 Rohit Kulkarni",
+  "homepage": "https://github.com/rohitiskul/TwitterAuthFragment",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Rohit Kulkarni",
+      "email": "rohitiskul@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/rohitiskul/TwitterAuthFragment/raw/master/libs/twitter4rk_v1.1.jar"
+  },
+  "tags": [
+    "Twitter",
+    "auth",
+    "fragment",
+    "api",
+    "easy",
+    "simple"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "WeatherLib",
+  "summary": "Android weather lib for creating easily weather app. The lib implements several protocols to get weather information from the most important weather data provider.\n\nThis is a library project that helps developers to create easily weather app without worrying about querying and extracting information from remote weather servers. It is very simple to use and you can easily extend it to support different weather provider or change the library behaviour. It is highly customizable and it is implemented in pure Java.\n\nUsing this lib you can focus your mind only on the app and how it should provides the weather information to the final user without dealing with internal details about protocols, connections and so on.\n\nThis library provides:\n\nRemote service invocation\nHandling HTTP requests and response in a separate thread respect to the main Android thread, so that you don\u0027t have to worry about ANR (Application Not Responding) problems\nImplement specific protocol to extract information from remote weather server\nQuerying the city using name pattern\nQuerying the city using geographic coordinates\nQuerying actual weather condition\nQuerying forecast weather condition\nRetrieve default weather condition icon for each weather provider\nAbstract app implementation from the specific weather provider selected, so that you can reuse the same app with different weather provider\nHandling errors\nImplementing a notifition/listener mechanism so that your requests don\u0027t get locked while the library is processing the response or while the server is contacted\nYou can easily extend the lib and implement your weather provider\nAt the moment the library supports Yahoo! Weather, Openweathermap and Weather Underground API as weather provider.",
+  "release_notes": "This is the 1.2 version containing some improvements:\n\nWeather Underground API support (Current Weather, Forecast, Astronomy, City search)\nStandard Http Weather client, based only on HttpConnection\nAdd more information from OpenWeathermap",
+  "version": "1.2.0",
+  "type": "module",
+  "copyright": "Copyright 2012-2014 Francesco Azzola",
+  "homepage": "https://github.com/survivingwithandroid/WeatherLib",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Francesco Azzola",
+      "email": "survivingwithandroid@gmail.com"
+    }
+  ],
+  "minimum_api": 9,
+  "source": {
+    "url": "https://github.com/survivingwithandroid/WeatherLib.git",
+    "tag": "1.2",
+    "source_files": "lib"
+  },
+  "tags": [
+    "weather",
+    "yahoo",
+    "Openweathermap",
+    "underground",
+    "api",
+    "easily",
+    "HTTP",
+    "forcast",
+    "astronomy",
+    "city",
+    "search",
+    "Current Weather"
+  ]
+}

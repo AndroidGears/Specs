@@ -1,0 +1,30 @@
+{
+  "name": "ProgressWheel",
+  "summary": "This is a circular progress bar called \"Progress Wheel\"that can be customized as much as the user wants. This is a custom component for Android intended for use instead of a progress bar. ",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "Copyright 2012 Todd Davies",
+  "homepage": "https://github.com/Todd-Davies/ProgressWheel",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Todd Davies",
+      "email": "todd434@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/AndroidGears/ProgressWheel.git",
+    "tag": "v1.0.0"
+  },
+  "tags": [
+    "loading",
+    "progress",
+    "360",
+    "wheel",
+    "round",
+    "spinnin",
+    "percent",
+    "customizable"
+  ]
+}

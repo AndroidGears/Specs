@@ -1,0 +1,30 @@
+{
+  "name": "ShowcaseView",
+  "summary": "This library has become more popular than I ever intended - but at the same time more unwieldy. This version is intended to be more stable, more friendly and better tested.\n\nThere are features missing compared to v4. If you\u0027d like to keep using them, then use the legacy branch in this repository.",
+  "release_notes": "Gradle and Maven compatibility! For now only snapshots are available, which can be accessed and added to Gradle builds by adding compile \u0027com.github.amlcurran.showcaseview:library:5.0.0-SNAPSHOT\u0027 to your dependencies. You will require the snapshot repository to be defined in your repositories.\nBuidler pattern. It was much too difficult to create and set up a ShowcaseView, so there is now a Builder pattern available. This makes it dead easy to create a ShowcaseView.\nNew KitKat style showcase. Currently, this is only available by creating a Builder using the new Builder(activity, true) constructor.",
+  "version": "5.0.0",
+  "type": "module",
+  "copyright": "Copyright Alex Curran (+Alex) © 2012",
+  "homepage": "https://github.com/amlcurran/ShowcaseView",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Alex Curran",
+      "email": "gearshelp@gmail.com"
+    }
+  ],
+  "minimum_api": 11,
+  "source": {
+    "url": "https://github.com/AndroidGears/ShowcaseView.git",
+    "tag": "v5.0.0",
+    "source_files": "library"
+  },
+  "tags": [
+    "show",
+    "case",
+    "help",
+    "first time",
+    "highlight",
+    "tutorial"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "TestProject",
+  "summary": "For testing module dependencies",
+  "version": "0.0.2",
+  "type": "module",
+  "copyright": "Android Gears",
+  "homepage": "https://github.com/AndroidGears/TestProject",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Android Gears",
+      "email": "gearshelp@gmail.com"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "https://github.com/AndroidGears/TestProject.git",
+    "tag": "v0.0.2",
+    "source_files": "TestLibrary"
+  },
+  "dependencies": [
+    {
+      "name": "Colours",
+      "version": "1.0.1"
+    }
+  ]
+}

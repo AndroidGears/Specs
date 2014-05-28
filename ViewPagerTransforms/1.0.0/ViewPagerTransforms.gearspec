@@ -1,0 +1,31 @@
+{
+  "name": "ViewPagerTransforms",
+  "summary": "Library containing common animations needed for transforming ViewPager scrolling on Android v13+. This library is a rewrite of the JazzyViewPager library and owes credit of the animation concepts directly to its source. The purpose of this rewrite is to provide an easier to use and extend implementation of ViewPager animations.",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "2014 ToxicBakery",
+  "homepage": "https://github.com/ToxicBakery/ViewPagerTransforms",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Ian Thomas",
+      "email": "toxicbakery@gmail.com"
+    }
+  ],
+  "minimum_api": 13,
+  "source": {
+    "url": "https://github.com/AndroidGears/ViewPagerTransforms.git",
+    "tag": "v1.0.0",
+    "source_files": "ViewPagerTransformsLibrary"
+  },
+  "tags": [
+    "viewpager",
+    "pager",
+    "animation",
+    "anim",
+    "scroll",
+    "flip",
+    "fade",
+    "custom"
+  ]
+}

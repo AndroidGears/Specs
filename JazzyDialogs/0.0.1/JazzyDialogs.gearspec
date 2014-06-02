@@ -1,0 +1,30 @@
+{
+  "name": "JazzyDialogs",
+  "summary": "This is a DialogFragment with custom animations.\n\nDA_DialogFragment mDialogFragment \u003d DA_DialogFragment.fragmentInstance(R.style.DA_Fade, R.layout.dialog_layout);\nmDialogFragment.show(getFragmentManager(), \"TAG\");",
+  "release_notes": "This is a pre-release of JazzyDialog\nCurrent animations: \n-Fade\n-Slide in from top with bounce\n-Slide in from top\n-Slide in from Right out to left",
+  "version": "0.0.1",
+  "type": "module",
+  "copyright": "2014 Aaron Fleshner",
+  "homepage": "https://github.com/adfleshner/JazzyDialogs",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aaron Fleshner",
+      "email": "adfleshner@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/adfleshner/JazzyDialogs.git",
+    "tag": "v0.0.1",
+    "source_files": "jd"
+  },
+  "tags": [
+    "dialog",
+    "animation",
+    "fade",
+    "slide",
+    "cool",
+    "fun"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "VolleyPlus",
+  "summary": "VolleyPlus library Project improvements to Volley along with full image caching. Improved features:\n\nVolleyTickle and RequestTickle for synchronous execution\nNetworkImageView improved\nDiskLruBasedCache based on DiskLruCache for L2 cache\nImproved Image Loader : SimpleImageLoder\nMultiPartRequest for file uploads",
+  "version": "1.0.0",
+  "type": "module",
+  "copyright": "2013 Hari Krishna Dulipudi",
+  "homepage": "https://github.com/DWorkS/VolleyPlus",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Hari Krishna Dulipudi",
+      "email": "heart.break.kid.b4u@gmail.com"
+    },
+    {
+      "name": "D WorkS",
+      "email": "hakr@dworks.in"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/AndroidGears/VolleyPlus.git",
+    "tag": "v1.0.0",
+    "source_files": "library"
+  },
+  "tags": [
+    "Volley",
+    "nice",
+    "image loading",
+    "simple",
+    "beautiful",
+    "plus"
+  ]
+}

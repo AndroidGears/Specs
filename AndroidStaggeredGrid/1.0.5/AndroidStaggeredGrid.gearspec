@@ -1,0 +1,26 @@
+{
+  "name": "AndroidStaggeredGrid",
+  "summary": "An Android staggered grid view which supports multiple columns with rows of varying sizes.",
+  "release_notes": "- Fixed OnScrollListener issue after updating contents #100\n- Fixed LayoutParams casting issue when recycling state #102\n- Fixed the onClick item id #86\n- Fixed bug that the default case on Touch event #67\n- Fixed for \"NPE onSizeChanged\" #41 PR #91\n- Added guard against issue #45\n- Fixed setAdapter bug #86 #85\n- Using newest build tools and libraries - #78 #96",
+  "version": "1.0.5",
+  "type": "module",
+  "copyright": "2013 Etsy",
+  "homepage": "https://github.com/AndroidGears/AndroidStaggeredGrid",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Etsy",
+      "email": "gearshelp@gmail.com"
+    }
+  ],
+  "minimum_api": 5,
+  "source": {
+    "url": "https://github.com/AndroidGears/AndroidStaggeredGrid.git",
+    "tag": "1.0.5",
+    "source_files": "library"
+  },
+  "tags": [
+    "table",
+    "unequal"
+  ]
+}

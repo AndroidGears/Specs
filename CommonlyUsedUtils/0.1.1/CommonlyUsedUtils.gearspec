@@ -1,0 +1,32 @@
+{
+  "name": "CommonlyUsedUtils",
+  "summary": "These are some of the Utils that I find myself writing every single time I write a new application.",
+  "release_notes": "Added More functionality. Including new awesome mehtods and custom views.",
+  "version": "0.1.1",
+  "type": "module",
+  "copyright": "2014 Aaron Fleshner",
+  "homepage": "https://github.com/adfleshner/CommonlyUsedUtils",
+  "license": "Beer-Ware",
+  "authors": [
+    {
+      "name": "Aaron Fleshner",
+      "email": "adfleshner@gmail.com"
+    }
+  ],
+  "minimum_api": 10,
+  "source": {
+    "url": "https://github.com/adfleshner/CommonlyUsedUtils.git",
+    "tag": "v0.1.1"
+  },
+  "tags": [
+    "alert",
+    "shared preferences",
+    "intents",
+    "phone",
+    "dialing",
+    "fragment switching",
+    "date",
+    "version checking",
+    "utils"
+  ]
+}

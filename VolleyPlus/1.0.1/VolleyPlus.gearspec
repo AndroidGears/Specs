@@ -19,7 +19,7 @@
   "minimum_api": 9,
   "source": {
     "url": "https://github.com/AndroidGears/VolleyPlus.git",
-    "tag": "v1.0.1",
+    "tag": "1.0.1",
     "source_files": "library"
   },
   "tags": [

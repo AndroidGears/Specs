@@ -1,0 +1,27 @@
+{
+  "name": "Picasso",
+  "summary": "A powerful image downloading and caching library for Android",
+  "version": "2.4.0",
+  "type": "jar",
+  "copyright": "2013 Square, Inc.",
+  "homepage": "http://square.github.io/picasso/",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Square, Inc.",
+      "email": "jakewharton@gmail.com"
+    }
+  ],
+  "minimum_api": 1,
+  "source": {
+    "url": "http://repo1.maven.org/maven2/com/squareup/picasso/picasso/2.4.0/picasso-2.4.0.jar"
+  },
+  "tags": [
+    "image",
+    "caching",
+    "handling",
+    "downloading",
+    "photo",
+    "picture"
+  ]
+}

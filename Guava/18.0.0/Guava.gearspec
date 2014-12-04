@@ -1,0 +1,31 @@
+{
+  "name": "Guava",
+  "summary": "The Guava project contains several of Google\u0027s core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.",
+  "release_notes": "The latest release is 18.0, released August 25, 2014.",
+  "version": "18.0.0",
+  "type": "jar",
+  "copyright": "Google 2012",
+  "homepage": "https://code.google.com/p/guava-libraries/",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Google",
+      "email": "google.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "http://search.maven.org/remotecontent?filepath\u003dcom/google/guava/guava/18.0/guava-18.0.jar"
+  },
+  "tags": [
+    "google",
+    "core",
+    "collections",
+    "caching",
+    "primitives support",
+    "concurrency libraries",
+    "common annotations",
+    "string processing",
+    "I/O"
+  ]
+}

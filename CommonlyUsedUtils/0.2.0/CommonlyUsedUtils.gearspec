@@ -1,0 +1,33 @@
+{
+  "name": "CommonlyUsedUtils",
+  "summary": "These are some of the Utils that I find myself writing every single time I write a new application.",
+  "release_notes": "Added More functionality.\nFixed Bugs in the library.\nAdded Parsing Functions.",
+  "version": "0.2.0",
+  "type": "module",
+  "copyright": "2014 Aaron Fleshner",
+  "homepage": "https://github.com/adfleshner/CommonlyUsedUtils",
+  "license": "Beer-Ware",
+  "authors": [
+    {
+      "name": "Aaron Fleshner",
+      "email": "adfleshner@gmail.com"
+    }
+  ],
+  "minimum_api": 8,
+  "source": {
+    "url": "https://github.com/adfleshner/CommonlyUsedUtils.git",
+    "tag": "v0.2",
+    "source_files": "commonlyusedutilslib"
+  },
+  "tags": [
+    "alert",
+    "shared preferences",
+    "intents",
+    "phone",
+    "dialing",
+    "fragment switching",
+    "date",
+    "version checking",
+    "utils"
+  ]
+}

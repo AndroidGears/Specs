@@ -1,0 +1,30 @@
+{
+  "name": "EventBus",
+  "summary": "EventBus is publish/subscribe event bus optimized for Android.\n\nEventBus...\n\nsimplifies the communication between components\ndecouples event senders and receivers\nperforms well with Activities, Fragments, and background threads\navoids complex and error-prone dependencies and life cycle issues\nmakes your code simpler\nis fast\nis tiny (\u003c50k jar)\nis proven in practice by apps with 100,000,000+ installs\nhas advanced features like delivery threads, subscriber priorities, etc.",
+  "release_notes": "Removed deprecated APIs: A year ago in Version 2.2.0, a couple of EventBus methods were deprecated and flagged to be removed in a future release. Well, version 2.4.0 is that release. Clean ups like this one keep the API concise and simple.\n\nNote: No new feature were added since 2.3.0. Use this release if you do not rely on deprecated APIs.",
+  "version": "2.4.0",
+  "type": "jar",
+  "copyright": "2014 GreenRobot",
+  "homepage": "https://github.com/greenrobot/EventBus/",
+  "license": "Apache License Version 2.0",
+  "authors": [
+    {
+      "name": "greenRobot",
+      "email": "androidgears@gmail.com"
+    }
+  ],
+  "minimum_api": 11,
+  "source": {
+    "url": "https://github.com/greenrobot/EventBus/releases/download/V2.4.0/EventBus-2.4.0.jar"
+  },
+  "tags": [
+    "Events",
+    "bus",
+    "publisher",
+    "subscriber",
+    "tiny",
+    "fast",
+    "cleaner",
+    "simplifies"
+  ]
+}
